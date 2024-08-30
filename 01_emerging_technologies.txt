@@ -1,0 +1,26 @@
+Assignment: Exploring Emerging Technologies
+
+Artificial Intelligence (AI)
+    Purpose: One primary goal of AI is to aid humans by automating a specific process that typically requires human action. 
+    Usage: It is used to process the information from its user, provide explanations based on its knowledge base, and support decision-making. 
+    Examples: It is common for students to research their topics and homework. Some might not know that web searches are AI-powered. Search engines learn and use extensive data provided by users to generate search results that are relevant and useful to the user's needs. In cybersecurity, AI assists in identifying and combating cyber threats through continuous data analysis, pattern recognition, and attack tracing.
+
+Virtual Reality (VR) and Augmented Reality (AR)
+    Purpose: The objective is to generate an immersive experience to allow users to explore digital environments for educational and entertainment purposes.
+    Usage: Virtual Reality is paired with VR goggles and used in the education sector, such as VR classrooms, for a more interactive and enjoyable environment for students and teachers. Various industries use VR to provide virtual training experiences for their employees.
+    Examples: Automotive engineers and designers use VR to experiment easily with the look and build of a vehicle before commissioning expensive prototypes. The healthcare industry also uses VR to perform treatments like surgeries virtually to prepare health professionals.
+
+Robotics 
+    Purpose: Like AI technology, robotics also aims to create intelligent machines (Robots) to help and assist humans in various types of work.
+    Usage: Robotics can be applied in many ways to help students learn. Mainly, studying robotics enhances their creativity and inspires them to think outside the box. Since robotics exists because of technology, it only makes sense to relate it to the IT world (electronics and computing), where robots play a role in electronic assembling, testing, packing, and even shipping a product.
+    Examples: Robots come in various types designed for specific work environments. In manufacturing and warehouses, industrial robots are utilized to carry out necessary tasks. Service robots exist in domestic, retail, and healthcare settings, with medical robots assisting medical practitioners in performing surgeries and treatments. Defense and military robots execute tasks in unknown and dangerous terrain.
+
+Gamification 
+    Purpose: It aims to make daily tasks more enjoyable and stimulating by incorporating the excitement, challenge, and reward of gaming into various contexts.
+    Usage: This technology is used to integrate video game design and elements into non-gaming environments to enhance engagement and motivation in everyday activities, whether in the education sector, the IT industry, and more.
+    Examples: In education, gamification integrates gaming elements such as leaderboards, achievements, badges, and rewards, promoting a more interactive, engaging, and quality teaching environment for students and teachers. In other industries like business and healthcare, some businesses implemented gamified employee training and performance tracking to improve employee motivation and overall performance, and some healthcare sectors used apps that gamified 
+
+5G Technology 
+    Purpose: 5G technology is intended to offer significantly faster, more secure, and overall improved network connectivity. Apart from its quicker download and upload speeds, 5G also has a smaller physical footprint due to its smaller transmitters, reduced error rates, improved bandwidth, and lower latencies.
+    Usage: Students greatly benefit from technologies like 5G in managing digital files and resources across multiple platforms. 5g will allow them to quickly access, download, or upload files necessary for their schoolwork. Relating to IT, companies with remote offices can also benefit from 5G technology as it can provide a better experience in virtual meetings and collaboration.
+    Examples: One great example of using 5G in everyday life is through our mobile phones. We can experience the benefits of this technology by watching YouTube videos, online multiplayer gaming, or even online shopping. 
