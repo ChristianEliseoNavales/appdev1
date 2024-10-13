@@ -1,12 +1,22 @@
 import './App.css'
-import Profile from './Profile';
+import AdminPanel from  './AdminPanel';
+import LoginForm from  './LoginForm';
 
 export default function MyApp() {
+  let content;
+  let isLoggedIn = true;
+
+  if (isLoggedIn) {
+    content = <AdminPanel />;
+  } else {
+    content = <LoginForm />;
+  }
+
   return (
     <div>
-      <h1>Welcome to my app</h1>
-      <Profile />
+      {content}
     </div>
   );
+
 }
 
