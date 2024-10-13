@@ -1,14 +1,13 @@
-export default function MyButton() {
-  function handleClick() {
-    alert('You clicked me!');
-  }
+import MyButton from './Button';
 
+export default function MyApp() {
   return (
-    <button onClick={handleClick}>
-      Click me
-    </button>
+    <div>
+      <h1>Counters that update separately</h1>
+      <MyButton />
+      <MyButton />
+    </div>
   );
 }
-
 
 
