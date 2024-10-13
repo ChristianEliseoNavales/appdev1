@@ -11,7 +11,7 @@ export default function MyApp() {
   return (
     <div>
       <h1>Welcome to my app</h1>
-      <AboutPage />
+      <img className="avatar" src="https://i.imgur.com/yXOvdOSs.jpg" />
     </div>
   );
 }
