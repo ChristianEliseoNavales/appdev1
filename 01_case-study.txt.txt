@@ -1,0 +1,11 @@
+1. As a Manager:
+
+- I would be considerate of the developer facing a personal family crisis while maintaining professionalism. The developer and I should communicate thoroughly about his tasks to quickly allocate the tasks to other developers. But first, I must converse with the whole team regarding the situation and the reallocation of tasks to fill the gap left by the developer to build a fair and proper distribution plan. After creating a corrective action plan with the team, I must maintain transparency with our clients so we can arrange a request to adjust the deadline if the plan faces shortcomings.
+
+2. As a Developer:
+
+- The first thing to do as a developer is to immediately inform my manager and maintain good communication to ensure my tasks stay on track. I would also provide suggestions to my manager about the possible team members that would fit a task more than the others to maximize effectiveness and productivity. Besides reporting to my manager, I should also assist in relaying the details of my tasks to my fellow developers to ensure we are on the same page.
+
+3. What Could Have Been Done Better?:
+
+- The manager should always have a ready-made backup plan. The team should set a meeting to discuss all possible problems that may arise before, during, or after a project. Indeed, you can not anticipate everything, but you can prepare for the most. 
